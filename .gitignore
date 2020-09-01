@@ -119,7 +119,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+*.ides/
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+./L2RPN_neurips2020_track1_starting_kit/input_data_local/chronics/
+./L2RPN_neurips2020_track1_starting_kit/example_submissions/submission_withbaselines/MySavedModel/
+./L2RPN_neurips2020_track1_starting_kit/example_submissions/submission_withdataloading/weights/
+/L2RPN_neurips2020_track1_starting_kit/example_submissions/submission_withbaselines/MySavedModel/
+/.idea/
+/L2RPN_neurips2020_track1_starting_kit/example_submissions/submission_withdataloading/weights/
+/L2RPN_neurips2020_track1_starting_kit/input_data_local/chronics/
