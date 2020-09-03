@@ -3,6 +3,7 @@ import os
 import argparse
 
 from utils import dict_installed_packages
+import re
 
 DISCLAIMER_HEAD = """
 DISCLAIMER: This is a tool to help you debug your imports faster. This might not give 100% accurate results. 
