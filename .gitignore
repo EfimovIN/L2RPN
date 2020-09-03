@@ -134,3 +134,4 @@ dmypy.json
 /.idea/
 /L2RPN_neurips2020_track1_starting_kit/example_submissions/submission_withdataloading/weights/
 /L2RPN_neurips2020_track1_starting_kit/input_data_local/chronics/
+/mycode/input_data_local/
